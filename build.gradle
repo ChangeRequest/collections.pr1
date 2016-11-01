@@ -7,3 +7,7 @@ apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/maste
 apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/master/testModule.gradle'
 apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/master/idea.gradle'
 apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/master/eclipse.gradle'
+
+dependencies {
+    testCompile 'com.google.guava:guava-testlib:20.0'
+}
