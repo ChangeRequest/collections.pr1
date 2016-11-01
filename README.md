@@ -30,6 +30,6 @@ Any method that modifies collection, should now throw `ConcurrentModificationExc
  ```
  
  2\.a Improvements
- -------------
+--------------
  Improve COW Iterator, so that it should obtain copy of initial collection only when some modification
  functionality is going to be called.
