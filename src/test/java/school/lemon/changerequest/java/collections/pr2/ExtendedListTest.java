@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.hw7;
+package school.lemon.changerequest.java.collections.pr2;
 
 
 import com.google.common.collect.testing.ListTestSuiteBuilder;

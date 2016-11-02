@@ -1,4 +1,4 @@
-Home work 7 tasks.
+Collections. Practice task 2
 ===============
 1\. CollectionUtils
 ---------------
@@ -14,6 +14,8 @@ difference
 
 Please check `CollectionUtils` interface for additional info.
 
+Also create your own unit tests to for functionality you have implemented.
+
 2\. Copy-on-write iterator
 --------------
 Implement copy-on-write iterator and also check that `ExtendedList` now supports 
@@ -21,13 +23,14 @@ fail-fast schema for concurrent modification.
 
 Any method that modifies collection, should now throw `ConcurrentModificationException` if collection is going
  to be modified concurrently, for example is this case:
- ```
- List<String> strings = new ArrayList<>();
- strings.add("a");
- Iterator<String> iterator = strings.iterator();
- strings.remove(0);
- iterator.next();
- ```
+```
+List<String> strings = new ArrayList<>();
+strings.add("a");
+Iterator<String> iterator = strings.iterator();
+strings.remove(0);
+iterator.next();
+```
+Also create your own unit tests to for functionality you have implemented.
  
  2\.a Improvements
 --------------
