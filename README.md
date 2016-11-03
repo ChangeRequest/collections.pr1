@@ -1,4 +1,4 @@
-Collections. Practice task 2
+Collections. Practice task 1
 ===============
 1\. CollectionUtils
 ---------------

@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.collections.pr2
+package school.lemon.changerequest.java.collections.pr1
 
 import spock.lang.Specification
 import spock.lang.Unroll

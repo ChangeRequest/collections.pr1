@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.collections.pr2;
+package school.lemon.changerequest.java.collections.pr1;
 
 public final class ExtendedListFactory {
     private ExtendedListFactory() {

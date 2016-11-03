@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.collections.pr2;
+package school.lemon.changerequest.java.collections.pr1;
 
 import java.util.Collection;
 import java.util.Set;
