@@ -9,5 +9,5 @@ apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/maste
 apply from: 'https://raw.githubusercontent.com/ChangeRequest/gradle_common/master/eclipse.gradle'
 
 dependencies {
-    testCompile 'com.google.guava:guava-testlib:20.0'
+    testCompile dependencies.guava_testlib
 }
