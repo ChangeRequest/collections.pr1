@@ -1,5 +1,7 @@
 Collections. Practice task 1
 ===============
+
+[![Join the chat at https://gitter.im/changerequest/collections.pr1](https://badges.gitter.im/changerequest/collections.pr1.svg)](https://gitter.im/changerequest/collections.pr1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1\. CollectionUtils
 ---------------
 Implement `CollectionUtils` utility class, that implements following useful functions:
